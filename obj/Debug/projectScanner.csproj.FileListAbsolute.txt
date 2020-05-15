@@ -1,0 +1,28 @@
+C:\Users\Pierre\source\repos\projectScanner\bin\Debug\projectScanner.exe.config
+C:\Users\Pierre\source\repos\projectScanner\bin\Debug\projectScanner.exe
+C:\Users\Pierre\source\repos\projectScanner\bin\Debug\projectScanner.pdb
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.csprojAssemblyReference.cache
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.Form1.resources
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.Properties.Resources.resources
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.csproj.GenerateResource.cache
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.exe
+C:\Users\Pierre\source\repos\projectScanner\obj\Debug\projectScanner.pdb
+C:\Users\sheha\source\repos\projectScanner\bin\Debug\projectScanner.exe.config
+C:\Users\sheha\source\repos\projectScanner\bin\Debug\projectScanner.exe
+C:\Users\sheha\source\repos\projectScanner\bin\Debug\projectScanner.pdb
+C:\Users\sheha\source\repos\projectScanner\obj\Debug\projectScanner.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\projectScanner\obj\Debug\projectScanner.Form1.resources
+C:\Users\sheha\source\repos\projectScanner\obj\Debug\projectScanner.Properties.Resources.resources
+C:\Users\sheha\source\repos\projectScanner\obj\Debug\projectScanner.csproj.GenerateResource.cache
+C:\Users\sheha\source\repos\projectScanner\obj\Debug\projectScanner.exe
+C:\Users\sheha\source\repos\projectScanner\obj\Debug\projectScanner.pdb
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\bin\Debug\projectScanner.exe.config
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\bin\Debug\projectScanner.exe
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\bin\Debug\projectScanner.pdb
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.csprojAssemblyReference.cache
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.Form1.resources
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.Properties.Resources.resources
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.csproj.GenerateResource.cache
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.exe
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.pdb
