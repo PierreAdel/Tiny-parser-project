@@ -26,3 +26,13 @@ C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\o
 C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.csproj.GenerateResource.cache
 C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.exe
 C:\Users\sheha\Desktop\faculty\semster 6\compilers\project 5ara\projectScanner\obj\Debug\projectScanner.pdb
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.csprojAssemblyReference.cache
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.Form1.resources
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.Properties.Resources.resources
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.csproj.GenerateResource.cache
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.csproj.CoreCompileInputs.cache
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.exe
+E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.pdb
+E:\Spring 2020 semster 6\Tiny-parser-project\bin\Debug\projectScanner.exe.config
+E:\Spring 2020 semster 6\Tiny-parser-project\bin\Debug\projectScanner.exe
+E:\Spring 2020 semster 6\Tiny-parser-project\bin\Debug\projectScanner.pdb

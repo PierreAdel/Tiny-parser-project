@@ -216,8 +216,12 @@ namespace projectScanner
             }
             
             form1.ViewOutput(My_Code.Length, Output);
-           
-            new Parser(Output);
+
+            try { new Parser(Output); }
+            catch (Exception e)
+            {
+                Console.WriteLine("ParserException: {0}", e.Message);
+            }
             
         }
 

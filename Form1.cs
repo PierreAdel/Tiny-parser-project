@@ -70,7 +70,6 @@ namespace projectScanner
                     {
                         tw = new StreamWriter(textBox2.Text);
 
-
                         tw.Write("Lexeme");
                         tw.Write(" - ");
                         tw.Write("Token");
@@ -81,15 +80,9 @@ namespace projectScanner
 
 
                         tw.Write(" ");
-                        
-
-
-
 
                         tw.WriteLine();
                         tw.Flush();
-
-
 
 
                     }
@@ -312,6 +305,11 @@ namespace projectScanner
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
 
         }

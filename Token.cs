@@ -7,6 +7,30 @@ namespace projectScanner
     class Token
     {
         String tokenName;
+        public const String SEMI_COLON = "SEMI";
+        public const String COMMA = "T_COMMA";
+        public const String LPAREN = "T_LPAREN";
+        public const String RPAREN = "T_RPAREN";
+        public const String LCURLYPAREN = "T_LCURLYPAREN";
+        public const String RCURLYPAREN = "T_RCURLYPAREN";
+        public const String PLUS = "T_PLUS";
+        public const String DIV = "T_DIV";
+        public const String MINUS = "T_MINUS";
+        public const String MULT = "T_MULT";
+        public const String GTHAN = "T_GTHAN";
+        public const String STHAN = "T_STHAN";
+        public const String TESTEQ = "T_TESTEQ";
+        public const String ASSIGNMENT = "T_ASSIGNMENT";
+        public const String IF = "T_IF";
+        public const String END = "T_END";
+        public const String READ = "T_READ";
+        public const String ELSE = "T_ELSE";
+        public const String THEN = "T_THEN";
+        public const String UNTIL = "T_UNTIL";
+        public const String WRITE = "T_WRITE";
+        public const String REPEAT = "T_REPEAT";
+        public const String ID = "ID_";
+
 
         public string TokenName { get => tokenName; set => tokenName = value; }
 
@@ -32,57 +56,57 @@ namespace projectScanner
                     return true;
                 case ',':
 
-                    token.TokenName = "T_COMMA";
+                    token.TokenName = COMMA;
 
 
                     return true;
                 case '(':
-                    token.TokenName = "T_LPAREN";
+                    token.TokenName = LPAREN;
 
 
                     return true;
                 case ')':
-                    token.TokenName = "T_RPAREN";
+                    token.TokenName = RPAREN;
                     return true;
                 case '{':
-                    token.TokenName = "T_LCURLYPAREN";
+                    token.TokenName = LCURLYPAREN;
 
                     return true;
                 case '}':
-                    token.TokenName = "T_RCURLYPAREN";
+                    token.TokenName = RCURLYPAREN;
                     return true;
 
                 case '+':
-                    token.TokenName = "T_PLUS";
+                    token.TokenName = PLUS;
 
 
                     return true;
                 case '/':
-                    token.TokenName = "T_DIV";
+                    token.TokenName = DIV;
 
 
                     return true;
                 case '-':
-                    token.TokenName = "T_MINUS";
+                    token.TokenName =MINUS;
 
 
                     return true;
                 case '*':
-                    token.TokenName = "T_MULT";
+                    token.TokenName = MULT;
 
 
                     return true;
                 case '>':
-                    token.TokenName = "T_GTHAN";
+                    token.TokenName = GTHAN;
 
                     return true;
                 case '<':
-                    token.TokenName = "T_STHAN";
+                    token.TokenName =STHAN;
 
                     return true;
 
                 case '=':
-                    token.TokenName = "T_TESTEQ";
+                    token.TokenName =TESTEQ;
 
 
                     return true;
@@ -98,7 +122,7 @@ namespace projectScanner
             switch (s)
             {
                 case ":=":
-                    token.TokenName = "T_ASSIGNMENT";
+                    token.TokenName = ASSIGNMENT;
 
 
                     return true;
@@ -134,7 +158,7 @@ namespace projectScanner
                     return false;
                 }
             }
-            token.TokenName = "ID_"+s;
+            token.TokenName = ID+s;
             return true;
         }
         public static Boolean Is_Number(String s, ref Token token)
@@ -220,23 +244,23 @@ namespace projectScanner
         public static Boolean Is_Keyword(String s, ref Token token) {
             switch (s)
             {
-                case "write" : token.TokenName = "T_WRITE";
+                case "write" : token.TokenName = WRITE;
                     return true;
-                 case "repeat" : token.TokenName = "T_REPEAT";
+                 case "repeat" : token.TokenName = REPEAT;
             return true;
 
 
                 case "if":
-                    token.TokenName = "T_IF";
+                    token.TokenName = IF;
                     return true;
                 case "read":
-                    token.TokenName = "T_READ";
+                    token.TokenName = READ;
                     return true;
                 case "else":
-                    token.TokenName = "T_ELSE";
+                    token.TokenName = ELSE;
                     return true;
                 case "end":
-                    token.TokenName = "T_END";
+                    token.TokenName = END;
                     return true;
                 case "main":
                     token.TokenName = "T_MAIN";
@@ -258,13 +282,13 @@ namespace projectScanner
                     token.TokenName = "T_RETURN";
                     return true;
                 case "until":
-                    token.TokenName = "T_UNTIL";
+                    token.TokenName = UNTIL;
                     return true;
                 case "elseif":
                     token.TokenName = "T_ELSEIF";
                     return true;
                 case "then":
-                    token.TokenName = "T_THEN";
+                    token.TokenName = THEN;
                     return true;
                 case "endl":
                     token.TokenName = "T_ENDL";
