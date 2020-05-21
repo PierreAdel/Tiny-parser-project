@@ -36,3 +36,14 @@ E:\Spring 2020 semster 6\Tiny-parser-project\obj\Debug\projectScanner.pdb
 E:\Spring 2020 semster 6\Tiny-parser-project\bin\Debug\projectScanner.exe.config
 E:\Spring 2020 semster 6\Tiny-parser-project\bin\Debug\projectScanner.exe
 E:\Spring 2020 semster 6\Tiny-parser-project\bin\Debug\projectScanner.pdb
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.csprojAssemblyReference.cache
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.Form1.resources
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.Properties.Resources.resources
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.csproj.GenerateResource.cache
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.exe
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.pdb
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\bin\Debug\projectScanner.exe.config
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\bin\Debug\projectScanner.exe
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\bin\Debug\projectScanner.pdb
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.Form2.resources
+C:\Users\sheha\Desktop\faculty\semster 6\compilers\project\Tiny-parser-project\obj\Debug\projectScanner.Form3.resources

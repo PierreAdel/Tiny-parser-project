@@ -29,8 +29,8 @@ namespace projectScanner
         public const String UNTIL = "T_UNTIL";
         public const String WRITE = "T_WRITE";
         public const String REPEAT = "T_REPEAT";
-        public const String ID = "ID_";
-
+        public const String ID = "ID";
+        public const String Number = "T_NUMBER";
 
         public string TokenName { get => tokenName; set => tokenName = value; }
 
@@ -158,7 +158,7 @@ namespace projectScanner
                     return false;
                 }
             }
-            token.TokenName = ID+s;
+            token.TokenName = ID;
             return true;
         }
         public static Boolean Is_Number(String s, ref Token token)
@@ -171,7 +171,7 @@ namespace projectScanner
                     return false;
                 }
             }
-            token.TokenName = "T_NUMBER";
+            token.TokenName = Number;
             return true;
 
         }

@@ -22,9 +22,11 @@ namespace projectScanner
         public Form1()
         {
             InitializeComponent();
-            
+
+           
         }
 
+       
 
         public void ViewOutput(int length,String[,] Output) //called by scanner to print output
         {
@@ -146,6 +148,7 @@ namespace projectScanner
             }
 
             Scanner scan = new Scanner(richTextBox1.Text,this);
+          
             scan.Start_Scan();
 
         }
@@ -310,6 +313,11 @@ namespace projectScanner
         }
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+
+        }
+
+        private void treeView1_AfterSelect_1(object sender, TreeViewEventArgs e)
         {
 
         }
