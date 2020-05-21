@@ -47,7 +47,7 @@ namespace projectScanner
            
             if (Number_Of_Errors > 0)
             {
-                Form3 form3 = new Form3(Number_Of_Errors + " Errors Founds\n" + Error+"Please Note That This Errors May Lead To Wrong Syntax Tree");
+                Form3 form3 = new Form3(Number_Of_Errors + " Errors Founds\n" + Error+"Please Note That This Errors Lead To Wrong Syntax Tree So Syntax Tree Is Hidden");
                 form3.Text = "Output";
                 form3.Show();
             }
